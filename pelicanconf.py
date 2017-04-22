@@ -12,8 +12,8 @@ from datetime import date
 AUTHOR = 'Rahul Pathak'
 SITENAME = 'Σsummations'
 SITESCHEME = 'https'
-#SITEURL = 'http://localhost:8000'
-SITEURL = 'https://summations.github.io'
+SITEURL = 'http://localhost:8000'
+#SITEURL = 'https://summations.github.io'
 RELATIVE_URLS = False
 PROFILE_IMAGE = "sigma-black.svg"
 SITE_TITLE = 'Rahul Pathak Blog'
@@ -28,7 +28,7 @@ DEFAULT_LANG = 'en'
 COPYRIGHT_FROM = 1998
 COPYRIGHT_UNTIL = date.today().year
 
-SUMMARY_MAX_LENGTH = 40
+SUMMARY_MAX_LENGTH = 60
 DISQUS_SITENAME = "rahulpathakml"
 #################################
 #
@@ -101,8 +101,8 @@ DELETE_OUTPUT_DIRECTORY = False
 # Blogroll
 # (anchor-text, icon-name, URL)
 LINKS = (
-    ('CV/Resume', 'user', '/pages/duncan-locks-resume.html'),
-    ('LinkedIn', 'linkedin-squared', 'http://ca.linkedin.com/in/duncanlock/'),
+    ('CV/Resume', 'user', '/pages/rahul-pathak-resume.html'),
+    ('LinkedIn', 'linkedin-squared', 'https://in.linkedin.com/in/rahul-pathak'),
    # ('SO Careers', 'stackoverflow', 'http://careers.stackoverflow.com/duncanlock'),
    # ('Codeistry', 'globe', 'http://codeistry.com/'),
    # ('E-Numbers', 'user', '/pages/e-numbers-food-additives.html'),
@@ -184,7 +184,7 @@ DISPLAY_PAGES_ON_MENU = False
 # Set Colophon variables, which can be output by the theme.
 COLOPHON = True
 COLOPHON_TITLE = 'About'
-COLOPHON_CONTENT = """<a href="/pages/duncan-locks-resume.html">
+COLOPHON_CONTENT = """<a href="/pages/rahul-pathak-resume.html">
 An adaptable and enthusiastic developer with broad experience
 and an artistic back&shy;ground. Strong graph&shy;ical
 com&shy;munication, design, creative

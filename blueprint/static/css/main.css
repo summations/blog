@@ -35,7 +35,7 @@ p {
     font-size: 17px;
 }
 a {
-        color: #64B1D3;
+        color: #215d77;
     border-bottom: 1px dotted #64B1D3;
 }
 a:hover {
@@ -97,25 +97,32 @@ h1 {
 }
 .blog-header {
     padding: 16px 0;
-    /*background: #3a4e6f url(/images/back11.jpg) repeat;*/
+    /*background: #3a4e6f url(/images/bk2.jpg) repeat;*/
     background-color: #e4e4e4;
     color: #000;
     margin-bottom: 1em;
 }
 .blog-header a {
-    color: #28576b;
-   
+    color: #464646;
     float: left;
     border-radius: 3px;
     border: 1px solid transparent;
+    text-shadow: 0 0 4px #777777;
 }
 .blog-header .nav li a:hover {
-    background-color: #348aad;
+    background-color: #464646;
     color: #fff;
 
 }
+.blog-header .nav li a {
+    color: #000;
+    text-shadow: none;
+    text-transform: capitalize;
+    font-size: 18px;
+}
+
 .blog-header .nav li.active a {
-    background-color: #348aad;
+    background-color: #464646;
     color: #ffffff;
 }
 /* Currently used in the site header */
@@ -146,7 +153,7 @@ h1 {
 .blog-footer {
     padding: 1em 2em;
     margin: 1em 0 0 0;
-    box-shadow: inset 0 30px 30px -30px rgba(0, 0, 0, 0.5);
+    /*box-shadow: inset 0 30px 30px -30px rgba(0, 0, 0, 0.5);*/
 }
 .blog-footer a {
     color: #000;
