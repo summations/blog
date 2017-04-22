@@ -1,6 +1,6 @@
 /* Styling for elements */
 body {
-    font-family: 'Lato', Georgia, serif;
+    font-family: 'Lora', Georgia, serif;
     font-size: 1em;
     line-height: 1.5;
     /*background: #ffffff url(/images/fabric_plaid.png) repeat;*/
@@ -9,7 +9,7 @@ p {
     margin: 0.8em 0;
     text-align: justify;
     line-height: 1.5;
-    font-family: 'Lato';
+    font-family: 'Lora';
     font-size: 19px;
     color: #303846;
     -webkit-hyphens: auto;
@@ -22,6 +22,9 @@ p {
 
 }
 
+.sidebar {
+    
+}
 
 .mathsize {
     font-size: 18px;
@@ -48,7 +51,7 @@ li {
 
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Lato', Georgia, serif; font-weight: normal;
+    font-family: 'Lora', Georgia, serif; font-weight: normal;
     color: #000;
     font-weight: bold;
     /*margin-bottom: 0px;*/
@@ -95,12 +98,12 @@ h1 {
 .blog-header {
     padding: 16px 0;
     /*background: #3a4e6f url(/images/back11.jpg) repeat;*/
-    background-color: #6a9fb5;
+    background-color: #e4e4e4;
     color: #000;
     margin-bottom: 1em;
 }
 .blog-header a {
-    color: #ffffff;
+    color: #28576b;
     text-transform: lowercase;
     float: left;
     border-radius: 3px;
@@ -244,7 +247,7 @@ h1 {
     text-align: left;
     font-size: 16px;
     /* margin: 0 0 0.5em 0; */
-    font-family: 'Droid Sans';
+    font-family: 'Lato';
     color: #6b6b6b;
 }
 .article-sidebar p.social_widgets {
@@ -474,7 +477,7 @@ pre {
 code {
   padding: .25em .5em;
   font-size: 18px;
-  color: #bf616a;
+  color: #4a4a4a;
   background-color: #f9f9f9;
   border-radius: 3px;
 }
@@ -526,7 +529,7 @@ tt.literal {
 .content hr {
     clear: both;
     float: none;
-    color: #28576b;
+    color: #4a4a4a;
 }
 .content h2 {
     font-size: 2.25em;
@@ -827,4 +830,61 @@ table.enumbers {
 @font-face {
     font-family: 'droidserif'; /*a name to be used later*/
     src: url('/extras/fonts/DroidSerif.ttf'); /*URL to font*/
+}
+
+@font-face {
+    font-family:'Lato';
+    src:url("/extras/fonts/LatoLatin-Italic.woff2") format("woff2");
+    font-weight:normal;
+    font-style:italic
+}
+@font-face {
+    font-family:'Lato';
+    src:url("/extras/fonts/LatoLatin-Black.woff2") format("woff2");
+    font-weight:900;
+    font-style:normal
+}
+@font-face {
+    font-family:'Lato';
+    src:url("/extras/fonts/LatoLatin-BlackItalic.woff2") format("woff2");
+    font-weight:900;
+    font-style:italic
+}
+@font-face {
+    font-family:'Lato';
+    src:url("/extras/fonts/LatoLatin-Light.woff2") format("woff2");
+    font-weight:300;
+    font-style:normal
+}
+@font-face {
+    font-family:'Lato';
+    src:url("/extras/fonts/LatoLatin-Regular.woff2") format("woff2");
+    font-weight:normal;
+    font-style:normal
+}
+
+@font-face {
+    font-family:'Lato';
+    src:url("/extras/fonts/Lora-Italic.ttf") format("ttf");
+    font-weight:normal;
+    font-style:italic
+}
+@font-face {
+    font-family:'Lato';
+    src:url("/extras/fonts/Lora-Bold.ttf") format("ttf");
+    font-weight:900;
+    font-style:normal
+}
+@font-face {
+    font-family:'Lato';
+    src:url("/extras/fonts/Lora-BoldItalic.ttf") format("ttf");
+    font-weight:900;
+    font-style:italic
+}
+
+@font-face {
+    font-family:'Lato';
+    src:url("/extras/fonts/Lora-Regular.ttf") format("ttf");
+    font-weight:normal;
+    font-style:normal
 }
