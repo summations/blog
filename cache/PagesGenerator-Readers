@@ -13,17 +13,17 @@ p6
 VDuncan Lock's Resume
 p7
 sttp8
-sV/home/rpathak/Temporary/tmp_scratchpad/pelican_themes/pelicanboostrap/content/pages/403.rst
+sV/home/rpathak/Temporary/tmp_scratchpad/pelican_themes/pelicanboostrap/content/pages/410.rst
 p9
 (F1492609690.0344877
-(V<div class="figure">\u000a<img alt="Blueprint style diagram showing California State Highway Sign SW-59 - Migrating Bears" src="{filename}/images/pages/403-error.png" />\u000a<p class="caption">The details of California State Highway Sign SW-59 - Migrating Bears can be <a class="reference external" href="http://www.dot.ca.gov/hq/traffops/signtech/signdel/specs.htm">found here</a>.</p>\u000a</div>\u000a<p>Hey, you're not allowed to access that page!</p>\u000a<p>You can either check the address and try again, go back to the <a class="reference external" href="/">homepage</a>, or maybe try the <a class="reference external" href="/blog">archives</a>.</p>\u000a
+(V<div class="figure">\u000a<img alt="Blueprint style diagram showing US Highway Sign W8-14 - Fallen Rocks" src="{filename}/images/pages/410-error.png" />\u000a<p class="caption">The details of the US Highways Sign W8-14 - Fallen Rocks can be <a class="reference external" href="http://mutcd.fhwa.dot.gov/shsm_interim/">found here</a>.</p>\u000a</div>\u000a<p>Sorry, the page you're looking for has been permanently removed.</p>\u000a<p>This might be because you followed a very old outdated link, or mistyped an address.</p>\u000a<p>You can either check the address and try again, go back to the <a class="reference external" href="/">homepage</a>, or maybe browse the <a class="reference external" href="/blog">archives</a>.</p>\u000a
 (dp10
 S'date'
 p11
 cpelican.utils
 SafeDatetime
 p12
-(S'\x07\xdd\x04\x15\x0f\x199\x00\x00\x00'
+(S'\x07\xdd\x07\x17\r\x0b\x08\x00\x00\x00'
 tRp13
 sS'status'
 p14
@@ -31,186 +31,186 @@ Vhidden
 p15
 sVslug
 p16
-V403
+V410
 p17
 sVtitle
 p18
-V403 -- Permission Denied, sorry!
+V410 -- Sorry, that page has been removed!
 p19
 sttp20
-sV/home/rpathak/Temporary/tmp_scratchpad/pelican_themes/summations.github.io/content/pages/410.rst
-p21
-(F1492110384
-(V<div class="figure">\u000a<img alt="Blueprint style diagram showing US Highway Sign W8-14 - Fallen Rocks" src="{filename}/images/pages/410-error.png" />\u000a<p class="caption">The details of the US Highways Sign W8-14 - Fallen Rocks can be <a class="reference external" href="http://mutcd.fhwa.dot.gov/shsm_interim/">found here</a>.</p>\u000a</div>\u000a<p>Sorry, the page you're looking for has been permanently removed.</p>\u000a<p>This might be because you followed a very old outdated link, or mistyped an address.</p>\u000a<p>You can either check the address and try again, go back to the <a class="reference external" href="/">homepage</a>, or maybe browse the <a class="reference external" href="/blog">archives</a>.</p>\u000a
-(dp22
-S'date'
-p23
-g12
-(S'\x07\xdd\x07\x17\r\x0b\x08\x00\x00\x00'
-tRp24
-sS'status'
-p25
-Vhidden
-p26
-sVslug
-p27
-V410
-p28
-sVtitle
-p29
-V410 -- Sorry, that page has been removed!
-p30
-sttp31
-sV/home/rpathak/Temporary/tmp_scratchpad/pelican_themes/summations.github.io/blogsrc/content/pages/410.rst
-p32
-(F1492110384
-(V<div class="figure">\u000a<img alt="Blueprint style diagram showing US Highway Sign W8-14 - Fallen Rocks" src="{filename}/images/pages/410-error.png" />\u000a<p class="caption">The details of the US Highways Sign W8-14 - Fallen Rocks can be <a class="reference external" href="http://mutcd.fhwa.dot.gov/shsm_interim/">found here</a>.</p>\u000a</div>\u000a<p>Sorry, the page you're looking for has been permanently removed.</p>\u000a<p>This might be because you followed a very old outdated link, or mistyped an address.</p>\u000a<p>You can either check the address and try again, go back to the <a class="reference external" href="/">homepage</a>, or maybe browse the <a class="reference external" href="/blog">archives</a>.</p>\u000a
-(dp33
-S'date'
-p34
-g12
-(S'\x07\xdd\x07\x17\r\x0b\x08\x00\x00\x00'
-tRp35
-sS'status'
-p36
-Vhidden
-p37
-sVslug
-p38
-V410
-p39
-sVtitle
-p40
-V410 -- Sorry, that page has been removed!
-p41
-sttp42
-sV/home/rpathak/Temporary/tmp_scratchpad/pelican_themes/summations.github.io/blogsrc/content/pages/403.rst
-p43
-(F1492110384
-(V<div class="figure">\u000a<img alt="Blueprint style diagram showing California State Highway Sign SW-59 - Migrating Bears" src="{filename}/images/pages/403-error.png" />\u000a<p class="caption">The details of California State Highway Sign SW-59 - Migrating Bears can be <a class="reference external" href="http://www.dot.ca.gov/hq/traffops/signtech/signdel/specs.htm">found here</a>.</p>\u000a</div>\u000a<p>Hey, you're not allowed to access that page!</p>\u000a<p>You can either check the address and try again, go back to the <a class="reference external" href="/">homepage</a>, or maybe try the <a class="reference external" href="/blog">archives</a>.</p>\u000a
-(dp44
-S'date'
-p45
-g12
-(S'\x07\xdd\x04\x15\x0f\x199\x00\x00\x00'
-tRp46
-sS'status'
-p47
-Vhidden
-p48
-sVslug
-p49
-V403
-p50
-sVtitle
-p51
-V403 -- Permission Denied, sorry!
-p52
-sttp53
-sV/home/rpathak/Temporary/tmp_scratchpad/pelican_themes/summations.github.io/blogsrc/content/pages/404.rst
-p54
-(F1492110384
-(V<div class="figure">\u000a<img alt="Blueprint style diagram showing US Highway Sign W8-8 - Rough Road" src="{filename}/images/pages/404-error.png" />\u000a<p class="caption">The details of the US Highways Sign W8-8 - Rough Road can be <a class="reference external" href="http://mutcd.fhwa.dot.gov/shsm_interim/">found here</a>.</p>\u000a</div>\u000a<p>Sorry, the page you're looking for couldn't be found.</p>\u000a<p>You can either check the address and try again, go back to the <a class="reference external" href="/">homepage</a>, or maybe browse the <a class="reference external" href="/blog">archives</a>.</p>\u000a
-(dp55
-S'date'
-p56
-g12
-(S'\x07\xdd\x04\x15\x0f\x199\x00\x00\x00'
-tRp57
-sS'status'
-p58
-Vhidden
-p59
-sVslug
-p60
-V404
-p61
-sVtitle
-p62
-V404 -- Sorry, that page doesn't exist!
-p63
-sttp64
-sV/home/rpathak/Temporary/tmp_scratchpad/pelican_themes/pelicanboostrap/content/pages/410.rst
-p65
-(F1492609690.0344877
-(V<div class="figure">\u000a<img alt="Blueprint style diagram showing US Highway Sign W8-14 - Fallen Rocks" src="{filename}/images/pages/410-error.png" />\u000a<p class="caption">The details of the US Highways Sign W8-14 - Fallen Rocks can be <a class="reference external" href="http://mutcd.fhwa.dot.gov/shsm_interim/">found here</a>.</p>\u000a</div>\u000a<p>Sorry, the page you're looking for has been permanently removed.</p>\u000a<p>This might be because you followed a very old outdated link, or mistyped an address.</p>\u000a<p>You can either check the address and try again, go back to the <a class="reference external" href="/">homepage</a>, or maybe browse the <a class="reference external" href="/blog">archives</a>.</p>\u000a
-(dp66
-S'date'
-p67
-g12
-(S'\x07\xdd\x07\x17\r\x0b\x08\x00\x00\x00'
-tRp68
-sS'status'
-p69
-Vhidden
-p70
-sVslug
-p71
-V410
-p72
-sVtitle
-p73
-V410 -- Sorry, that page has been removed!
-p74
-sttp75
-sV/home/rpathak/Temporary/tmp_scratchpad/pelican_themes/summations.github.io/content/pages/403.rst
-p76
-(F1492110384
-(V<div class="figure">\u000a<img alt="Blueprint style diagram showing California State Highway Sign SW-59 - Migrating Bears" src="{filename}/images/pages/403-error.png" />\u000a<p class="caption">The details of California State Highway Sign SW-59 - Migrating Bears can be <a class="reference external" href="http://www.dot.ca.gov/hq/traffops/signtech/signdel/specs.htm">found here</a>.</p>\u000a</div>\u000a<p>Hey, you're not allowed to access that page!</p>\u000a<p>You can either check the address and try again, go back to the <a class="reference external" href="/">homepage</a>, or maybe try the <a class="reference external" href="/blog">archives</a>.</p>\u000a
-(dp77
-S'date'
-p78
-g12
-(S'\x07\xdd\x04\x15\x0f\x199\x00\x00\x00'
-tRp79
-sS'status'
-p80
-Vhidden
-p81
-sVslug
-p82
-V403
-p83
-sVtitle
-p84
-V403 -- Permission Denied, sorry!
-p85
-sttp86
-sV/home/rpathak/Temporary/tmp_scratchpad/pelican_themes/pelicanboostrap/content/pages/404.rst
-p87
-(F1492609690.0344877
-(V<div class="figure">\u000a<img alt="Blueprint style diagram showing US Highway Sign W8-8 - Rough Road" src="{filename}/images/pages/404-error.png" />\u000a<p class="caption">The details of the US Highways Sign W8-8 - Rough Road can be <a class="reference external" href="http://mutcd.fhwa.dot.gov/shsm_interim/">found here</a>.</p>\u000a</div>\u000a<p>Sorry, the page you're looking for couldn't be found.</p>\u000a<p>You can either check the address and try again, go back to the <a class="reference external" href="/">homepage</a>, or maybe browse the <a class="reference external" href="/blog">archives</a>.</p>\u000a
-(dp88
-S'date'
-p89
-g12
-(S'\x07\xdd\x04\x15\x0f\x199\x00\x00\x00'
-tRp90
-sS'status'
-p91
-Vhidden
-p92
-sVslug
-p93
-V404
-p94
-sVtitle
-p95
-V404 -- Sorry, that page doesn't exist!
-p96
-sttp97
 sV/home/rpathak/Temporary/tmp_scratchpad/pelican_themes/pelicanboostrap/content/pages/cv.html
-p98
+p21
 (F1492609690.0344877
 (V\u000a        <div class="container hresume">\u000a\u000a            <div class="row-fluid">\u000a                <div class="span8">\u000a                    <p class="intro">An adaptable and enthusiastic developer with broad experience and an artistic back&shy;ground. Strong graph&shy;ical com&shy;munication, design, creative &amp; prob&shy;lem solving skills &mdash; and an eye for detail.</p>\u000a                    <p class="intro">A quick &amp; flexible learner, open to all technologies, platforms, and languages.</p>\u000a                </div>\u000a                <div class="span4 boxout vcard">\u000a                    <div class="hidden">\u000a                        <p id="name" class="fn"><span class="given-name">Duncan</span> <span class="family-name">Lock</span></p>\u000a                        <p class="nickname">Dunc</p>\u000a                        <abbr class="tz" title="-08:00; UTC; GMT; Vancouver, Canada">GMT/UTC</abbr>\u000a                        <p class="note">An adaptable and enthusiastic developer with broad experience and an artistic background. Strong graphical communication, design, creative &amp; problem solving skills &mdash; and an eye for detail. A quick &amp; flexible learner, open to all technologies, platforms, and languages.</p>\u000a                        <span class="bday">1976-08-05</span>\u000a                    </div>\u000a\u000a                    <dl>\u000a                        <dt>Websites:</dt>\u000a                        <dd>\u000a                            <a class="url" href="http://duncanlock.net/">duncanlock.net</a><br />\u000a                            <a class="url" href="http://www.codeistry.com/">codeistry.com</a><br />\u000a                            <a class="url hidden" href="http://www.dflock.co.uk/">www.dflock.co.uk</a>\u000a                        </dd>\u000a\u000a                        <dt>Contact:</dt>\u000a                        <dd>\u000a                            <address class="adr">\u000a                                <span class="locality">Vancouver</span>, <span class="country-name">Canada</span><br />\u000a                                <span class="tel"><i class="icon-phone"></i><a class="value" href="tel:+1-778-707-3409">+1-778-707-3409</a></span><br />\u000a                                <i class="icon-mail-alt"></i><a class="email" title="Email me." href="mailto:dunc@codeistry.com">dunc@codeistry.com</a><br />\u000a                            </address>\u000a                            <i class="icon-linkedin-squared"></i><a title="View my LinkedIn profile." href="http://ca.linkedin.com/in/duncanlock/">LinkedIn</a><br />\u000a                            <i class="icon-stackoverflow"></i><a title="View my StackOverFlow Careers profile." href="http://careers.stackoverflow.com/duncanlock">StackOverFlow Careers</a>\u000a                        </dd>\u000a                    </dl>\u000a                </div>\u000a            </div>\u000a\u000a            <div class="row-fluid">\u000a                <div class="span12">\u000a                    <h2>Technical Skills</h2>\u000a\u000a                    <div class="row-fluid">\u000a                        <div class="span6">\u000a                            <h3>Extensive Experience</h3>\u000a                            <h4>UI<span class="amp">/</span>UX Design &amp; Web Development</h4>\u000a                            <ul>\u000a                                <li class="skill">Design, writing, documentation, diagramming, drawing &amp; sketching; paper prototyping</li>\u000a                                <li class="skill">Cross Browser Web Design &amp; Development</li>\u000a                                <li class="skill">  <abbr title="Hypertext Markup Language">HTML</abbr> &amp; <abbr title="Extensible Hypertext Markup Language">XHTML</abbr>, <abbr title="Cascading Style Sheets">CSS</abbr> &amp; LESS, <abbr title="Scalable Vector Graphics">SVG</abbr>, <abbr title="Extensible Markup Language">XML</abbr> &amp; <abbr title="Extensible Stylesheet Language/ Transformation">XSLT</abbr></li>\u000a                                <li>JavaScript/ES5; jQuery, Handlebars.js, AngularJS</li>\u000a                                <li class="skill"><abbr title="MODx Web Content Management System">MODx</abbr>, WordPress, <abbr title="Linux, Apache, MySQL, PHP">LAMP</abbr> Server setup &amp; Admin.</li>\u000a                            </ul>\u000a                            <h4>DevOps</h4>\u000a                            <ul>\u000a                                <li class="skill">Bash &amp; Linux Admin, DevOps with Ansible, Vagrant &amp; Docker; <abbr title="Amazon Web Services">AWS</abbr>, <abbr title="Simple Storage Service">S3</abbr> &amp; <abbr title="Elastic Compute Cloud">EC2</abbr></li>\u000a                                <li class="skill">Python &amp; Tornado; Jinja &amp; Mako; NGINX; <abbr title="Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.">Git</abbr></li>\u000a                                <li>Big Data: Hadoop, Accumulo; MongoDB</li>\u000a                                <li class="skill">Linux, Apache, MySQL, <abbr title="recursive acronym for PHP: Hypertext Preprocessor">PHP</abbr></li>\u000a                            </ul>\u000a                        </div>\u000a                        <div class="span6">\u000a                            <h3>Also experienced in&#8230;</h3>\u000a                            <ul>\u000a                                <li class="skill"><abbr title="Structured Query Language">SQL</abbr>, Database Design &amp; Development, Data Modeling, <abbr title="Extract Transform &amp; Load">ETL</abbr>, Data &amp; Web Scraping</li>\u000a                                <li class="skill">SQL Server, <abbr title="Data Transformation Services">DTS</abbr></li>\u000a                                <li class="skill">Google Analytics, KissMetrics, Data Driven Marketing, A/B Testing</li>\u000a                            </ul>\u000a                            <h3>Qualifications</h3>\u000a                            <ul>\u000a                                <li class="skill">MCTS &ndash; Microsoft Certified Technology Specialist, SQL Server 2005</li>\u000a                                <li class="skill">MCDBA &ndash; Microsoft Certified Database Administrator</li>\u000a                                <li class="skill">MCT &ndash; Microsoft Certified Trainer</li>\u000a                                <li class="skill">MCP &ndash; Microsoft Certified Professional</li>\u000a                                <li class="skill">MCDST &ndash; Microsoft Certified  Desktop Support Technician</li>\u000a                                <li class="skill">Master CIW Designer</li>\u000a                            </ul>\u000a                            <p class="smallprint muted no-print">To verify the authenticity of these Microsoft qualifications, <a href="https://mcp.microsoft.com/authenticate/validatemcp.aspx" title="View Microsoft Qualifications Transcript" target="MicrosoftTranscript">open the transcript</a> and login using TranscriptID: <strong>721387</strong> and Access Code: <strong>duncanlockcv</strong></p>\u000a                        </div>\u000a                    </div>\u000a                </div>\u000a            </div>\u000a\u000a\u000a            <div class="row-fluid">\u000a                <div class="span12">\u000a                    <h2 id="experience">Experience</h2>\u000a\u000a                    <div class="vcalendar">\u000a                        <div class="experience vevent vcard">\u000a                            <a href="#name" class="include"></a>\u000a                            <h3><abbr class="dtstart" title="2013-11-25">November 2013</abbr> &ndash; <abbr class="dtend" title="2015-17-03">Present</abbr></h3>\u000a\u000a                            <h4 id="htw"><span class="title role">UI<span class="amp">/</span>UX Designer &amp; DevOps Engineer</span>, <span class="fn org summary">PHEMI</span>, Vancouver, BC</h4>\u000a                            <div class="row-fluid">\u000a                                <div class="span4 smallprint">\u000a                                    <p><a href="http://www.phemi.com/">PHEMI</a> is a big data warehouse company that lets organizations easily access and mine any variety of data at any volume to drive insights that lower costs, improve outcomes, and allow better decisions faster.</p>\u000a                                </div>\u000a                                <div class="span8 job_description">\u000a                                    <p>Working as part of a world class development team, building big data applications, using Apache Hadoop, Accumulo &amp; Python.</p>\u000a                                    <p>Designed and developed the User Experience for PHEMI's next generation healthcare productivity applications and Big Data Warehousing Systems; built the UI for the front end applications, using Bootstrap, LESS, jQuery  &amp; AngularJS.</p>\u000a                                    <p>Built provisioning &amp; continuous deployment system for our complete platform stack &mdash; for both development &amp; production &mdash; using Ansible, Vagrant &amp; Docker.</p>\u000a                                </div>\u000a                            </div>\u000a                        </div>\u000a                        <div class="experience vevent vcard">\u000a                            <a href="#name" class="include"></a>\u000a                            <h3><abbr class="dtstart" title="2011-04-01">April 2011</abbr> &ndash; <abbr class="dtend" title="2012-12-31">December 2012</abbr></h3>\u000a\u000a                            <h4 id="htw"><span class="title role">Senior Developer</span>, <span class="fn org summary">HiretheWorld.com</span>, Vancouver, BC</h4>\u000a                            <div class="row-fluid">\u000a                                <div class="span4 smallprint">\u000a                                    <p><a href="http://www.hiretheworld.com/">HiretheWorld.com</a> is a small Vancouver based start-up connecting people who need Graphic Design with a global community of thousands of talented designers from 144 countries.</p>\u000a                                </div>\u000a                                <div class="span8 job_description">\u000a                                    <p>Bridging the worlds of development, <abbr title="User Experience Design">UX</abbr> and Data Driven Marketing, via Analytics.</p>\u000a                                    <p>Working as part of the development team, building the application in PHP, HTML &amp; CSS.</p>\u000a                                    <p>Extensive database re-factoring, managing large tagging ontology; writing SQL &amp; PHP scripts to clean &amp; curate user generated content.</p>\u000a                                    <p>Data driven content marketing, including writing content, blogging, running social media and forum based community management.</p>\u000a                                    <p>Both designing and implementing UI &amp; UX as well as acting as a bridge between the design &amp; development teams, both internal and external.</p>\u000a                                </div>\u000a                            </div>\u000a                        </div>\u000a                        <div id="codeistry" class="experience vevent vcard">\u000a                            <h3><abbr class="dtstart" title="2008-07-01">July 2008</abbr> &ndash; <abbr class="dtend" title="2015-17-03">Present</abbr></h3>\u000a\u000a                            <h4><span class="title role">Founder</span>, <span class="fn org summary">Codeistry</span>, Birmingham, UK &amp; Vancouver, BC</h4>\u000a                            <div class="row-fluid">\u000a                                <div class="span4 smallprint">\u000a                                    <p><a href="http://www.codeistry.com/">Codeistry</a> is a small but thriving web development company producing modern dynamic <abbr title="Content Management System">CMS</abbr> driven websites.</p>\u000a                                </div>\u000a                                <div class="span8 job_description">\u000a                                    <a href="http://www.codeistry.com/" title="To visit the Codeistry site, click here."><img src="{filename}/images/pages/duncan-locks-resume/codeistry_logo_medium-trans.png" alt="Codeistry logo" /></a>\u000a                                    <p>I run Codeistry - a small web development company. I craft sophisticated personalized websites, complete with full Content Management Systems, for a wide variety of clients, spread over four continents.</p>\u000a                                    <p>As it's my company, I do most everything myself - marketing, <abbr title="Search Engine Optimization">SEO</abbr>, customer relations, design, coding, support, invoicing - you name it, I do it. I've become very experienced managing the complete business and project life-cycle from beginning to end.</p>\u000a                                    <p><a href="http://www.codeistry.com/">If you want to checkout my portfolio, or you need any web development, consultancy or advice - Codeistry has it's own website</a>.</p>\u000a                                </div>\u000a                            </div>\u000a                        </div>\u000a                        <div id="ebxp" class="experience vevent vcard">\u000a                            <h3><abbr class="dtstart" title="2007-04-02">April 2007</abbr> &ndash; <abbr class="dtend" title="2008-06-30">June 2008</abbr></h3>\u000a\u000a                            <h4><span class="title role">Web Development Manager</span>, <span class="fn org summary">ebxp</span>, Bicester, UK</h4>\u000a                            <div class="row-fluid">\u000a                                <div class="span4 smallprint">\u000a                                    <p><a href="http://www.ebxp.com/">ebxp</a> are a small flash &amp; web development studio specializing in flash <abbr title="Electronic Brochures">e-brochures</abbr> and dynamic <abbr title="Content Management System">CMS</abbr> driven websites.</p>\u000a                                </div>\u000a                                <div class="span8 job_description">\u000a                                    <p>Comprehensive position developing CMS driven websites for clients, training a small team of junior developers and modernising the company's development practices.</p>\u000a                                    <p>Introduced open source <abbr title="recursive acronym for PHP: Hypertext Preprocessor">PHP</abbr> based <abbr title="Content Management System">CMS</abbr> <a href="http://www.modxcms.com/">MODx</a>, modern semantic CSS web site development &amp; company Wiki. Increased production automation through use of automated image processing software and bespoke database migration scripting.</p>\u000a                                    <p>Introduced &amp; ran regular project debriefs, training seminars, workshops &amp; design reviews as part of team building &amp; improvement process.</p>\u000a                                </div>\u000a                            </div>\u000a                        </div>\u000a                        <div id="computeach" class="experience vevent vcard">\u000a                            <h3><abbr class="dtstart" title="2005-06-01">June 2005</abbr> &ndash; <abbr class="dtend" title="2007-04-01">April 2007</abbr></h3>\u000a\u000a                            <h4><span class="title role">Senior Tutor</span>, <span class="fn org summary">Computeach International</span>, Dudley, UK</h4>\u000a                            <div class="row-fluid">\u000a                                <div class="span4 smallprint">\u000a                                    <p><a href="http://www.computeach.co.uk/">Computeach</a>, established for over 40 years &amp; with an annual turnover of £25m, provides <abbr title="Information Technology">IT</abbr> distance learning courses to thousands of students &mdash; and currently has over 9,000 students enrolled on a wide variety of courses.</p>\u000a                                </div>\u000a                                <div class="span8 job_description">\u000a                                    <p>Senior SQL Tutor responsible for the training and support of <abbr title="Microsoft Certified Database Architect">MCDBA</abbr>, <abbr title="Microsoft Certified Application Developer">MCAD</abbr> &amp; <abbr title="Microsoft Certified Professional">MCP</abbr> students studying for Microsoft SQL Server exams 2000 &amp; 2005 (70-228 &amp; 70-229). Working with another tutor, provide classroom training &amp; student support via email, web chat and phone for ~500 students. </p>\u000a                                    <p>Created (on own initiative) SQL Server &amp; <abbr title="Active Server Pages">ASP</abbr> intranet to support tutors, office staff and managers which provided extensive Student Records, Phone call tracking &amp; student reporting for tutors. This system imported data from existing Paradox database system, doing extensive cleaning and cross referencing - and merging with other data sources to produce a complete, modern, unified system.</p>\u000a                                </div>\u000a                            </div>\u000a                        </div>\u000a                        <div id="roc" class="experience vevent vcard">\u000a                            <h3><abbr class="dtstart" title="1998-10-01">October 1998</abbr> &ndash; <abbr class="dtend" title="2005-04-01">April 2005</abbr></h3>\u000a\u000a                            <h4><span class="title role">Analyst Programmer</span>, <span class="fn org summary">Roc&nbsp;Office&nbsp;Furniture&nbsp;Plc.</span>, Birmingham, UK</h4>\u000a                            <div class="row-fluid">\u000a                                <div class="span4 smallprint">\u000a                                    <p><a href="http://www.roc-office.co.uk/">Roc Office Furniture</a>, employing 100 people and turning over &pound;10m, design, manufacture and supply office seating and furniture, providing a one stop shop service for prestigious national and international clients.</p>\u000a                                </div>\u000a                                <div class="span8 job_description">\u000a                                    <p>Responsible for development &amp; support on the successful company wide implementation of Microsoft Business Solutions Navision, a complete manufacturing, sales, financials, <abbr title="Enterprise Resource Planning">ERP</abbr> &amp; <abbr title="Customer Relationship Management">CRM</abbr> system. This replaced a ~20 year old bespoke system and launched with ~50 users.</p>\u000a\u000a                                    <p>Developed the company's intranet applications in XML, HTML &amp; ASP; including database driven design drawings and product specifications systems, <abbr title="Structured Vector Graphics">SVG</abbr> org. charts, XML driven internal phone and contacts, forum and collaborative wiki.</p>\u000a\u000a                                    <p>Developed a replacement for legacy payroll data collection and processing system in <abbr title="Visual Basic">VB</abbr> &amp; SQL Server; system had successfully processed over 85,000 payroll transactions at the time of writing.</p>\u000a                                </div>\u000a                            </div>\u000a                        </div>\u000a                        <div id="rcs" class="experience vevent vcard">\u000a                            <h3><abbr class="dtstart" title="1996-12-01">December 1996</abbr> &ndash; <abbr class="dtend" title="1998-10-01">October 1998</abbr></h3>\u000a\u000a                            <h4><span class="title role">Development Engineer</span>, <span class="fn org summary">Ross&nbsp;Computer&nbsp;Services</span>, Ross-on-Wye, UK</h4>\u000a                            <div class="row-fluid">\u000a                                <div class="span4 smallprint">\u000a                                    <p>Ross Computer Services developed management, logistics and accounting software for the road haulage industry and are now part of <a href="http://www.mandata.co.uk/">Mandata</a></p>\u000a                                </div>\u000a                                <div class="span8 job_description">\u000a                                    <p>Developed, with a small team, 32-bit distributed n-tier business solutions in <abbr title="Visual Basic">VB</abbr> 5 for the road haulage industry. Responsible for the design &amp; development of client side applications and server-side components implementing business rules &amp; database independent data services. Shared responsibility for hardware support of the NT servers, networks &amp; PC's for the installed client base of ~200 users.</p>\u000a                                </div>\u000a                            </div>\u000a                        </div>\u000a                    </div>\u000a                    <hr />\u000a                    <h4 style="text-align: center;">More details, as well as professional references, available on <a href="mailto:dunc@codeistry.com">request</a>.</h4>\u000a                </div>\u000a            </div>\u000a        </div>\u000a    
-(dp99
+(dp22
 Vdescription
-p100
+p23
 VAn adaptable and enthusiastic writer & developer with broad experience and an artistic background. Strong graphical communication, design, creative & problem solving skills \u2014 and an eye for detail. Quick & flexible learner, open to all technologies, platforms, and languages - always use the best tool for the job.
+p24
+sVtitle
+p25
+VDuncan Lock's Resume
+p26
+sttp27
+sV/home/rpathak/Temporary/tmp_scratchpad/pelican_themes/summations.github.io/blogsrc/content/pages/410.rst
+p28
+(F1492110384
+(V<div class="figure">\u000a<img alt="Blueprint style diagram showing US Highway Sign W8-14 - Fallen Rocks" src="{filename}/images/pages/410-error.png" />\u000a<p class="caption">The details of the US Highways Sign W8-14 - Fallen Rocks can be <a class="reference external" href="http://mutcd.fhwa.dot.gov/shsm_interim/">found here</a>.</p>\u000a</div>\u000a<p>Sorry, the page you're looking for has been permanently removed.</p>\u000a<p>This might be because you followed a very old outdated link, or mistyped an address.</p>\u000a<p>You can either check the address and try again, go back to the <a class="reference external" href="/">homepage</a>, or maybe browse the <a class="reference external" href="/blog">archives</a>.</p>\u000a
+(dp29
+S'date'
+p30
+g12
+(S'\x07\xdd\x07\x17\r\x0b\x08\x00\x00\x00'
+tRp31
+sS'status'
+p32
+Vhidden
+p33
+sVslug
+p34
+V410
+p35
+sVtitle
+p36
+V410 -- Sorry, that page has been removed!
+p37
+sttp38
+sV/home/rpathak/Temporary/tmp_scratchpad/pelican_themes/summations.github.io/blogsrc/content/pages/403.rst
+p39
+(F1492110384
+(V<div class="figure">\u000a<img alt="Blueprint style diagram showing California State Highway Sign SW-59 - Migrating Bears" src="{filename}/images/pages/403-error.png" />\u000a<p class="caption">The details of California State Highway Sign SW-59 - Migrating Bears can be <a class="reference external" href="http://www.dot.ca.gov/hq/traffops/signtech/signdel/specs.htm">found here</a>.</p>\u000a</div>\u000a<p>Hey, you're not allowed to access that page!</p>\u000a<p>You can either check the address and try again, go back to the <a class="reference external" href="/">homepage</a>, or maybe try the <a class="reference external" href="/blog">archives</a>.</p>\u000a
+(dp40
+S'date'
+p41
+g12
+(S'\x07\xdd\x04\x15\x0f\x199\x00\x00\x00'
+tRp42
+sS'status'
+p43
+Vhidden
+p44
+sVslug
+p45
+V403
+p46
+sVtitle
+p47
+V403 -- Permission Denied, sorry!
+p48
+sttp49
+sV/home/rpathak/Temporary/tmp_scratchpad/pelican_themes/summations.github.io/blogsrc/content/pages/404.rst
+p50
+(F1492110384
+(V<div class="figure">\u000a<img alt="Blueprint style diagram showing US Highway Sign W8-8 - Rough Road" src="{filename}/images/pages/404-error.png" />\u000a<p class="caption">The details of the US Highways Sign W8-8 - Rough Road can be <a class="reference external" href="http://mutcd.fhwa.dot.gov/shsm_interim/">found here</a>.</p>\u000a</div>\u000a<p>Sorry, the page you're looking for couldn't be found.</p>\u000a<p>You can either check the address and try again, go back to the <a class="reference external" href="/">homepage</a>, or maybe browse the <a class="reference external" href="/blog">archives</a>.</p>\u000a
+(dp51
+S'date'
+p52
+g12
+(S'\x07\xdd\x04\x15\x0f\x199\x00\x00\x00'
+tRp53
+sS'status'
+p54
+Vhidden
+p55
+sVslug
+p56
+V404
+p57
+sVtitle
+p58
+V404 -- Sorry, that page doesn't exist!
+p59
+sttp60
+sV/home/rpathak/Temporary/tmp_scratchpad/pelican_themes/pelicanboostrap/content/pages/403.rst
+p61
+(F1492609690.0344877
+(V<div class="figure">\u000a<img alt="Blueprint style diagram showing California State Highway Sign SW-59 - Migrating Bears" src="{filename}/images/pages/403-error.png" />\u000a<p class="caption">The details of California State Highway Sign SW-59 - Migrating Bears can be <a class="reference external" href="http://www.dot.ca.gov/hq/traffops/signtech/signdel/specs.htm">found here</a>.</p>\u000a</div>\u000a<p>Hey, you're not allowed to access that page!</p>\u000a<p>You can either check the address and try again, go back to the <a class="reference external" href="/">homepage</a>, or maybe try the <a class="reference external" href="/blog">archives</a>.</p>\u000a
+(dp62
+S'date'
+p63
+g12
+(S'\x07\xdd\x04\x15\x0f\x199\x00\x00\x00'
+tRp64
+sS'status'
+p65
+Vhidden
+p66
+sVslug
+p67
+V403
+p68
+sVtitle
+p69
+V403 -- Permission Denied, sorry!
+p70
+sttp71
+sV/home/rpathak/Temporary/tmp_scratchpad/pelican_themes/summations.github.io/content/pages/403.rst
+p72
+(F1492110384
+(V<div class="figure">\u000a<img alt="Blueprint style diagram showing California State Highway Sign SW-59 - Migrating Bears" src="{filename}/images/pages/403-error.png" />\u000a<p class="caption">The details of California State Highway Sign SW-59 - Migrating Bears can be <a class="reference external" href="http://www.dot.ca.gov/hq/traffops/signtech/signdel/specs.htm">found here</a>.</p>\u000a</div>\u000a<p>Hey, you're not allowed to access that page!</p>\u000a<p>You can either check the address and try again, go back to the <a class="reference external" href="/">homepage</a>, or maybe try the <a class="reference external" href="/blog">archives</a>.</p>\u000a
+(dp73
+S'date'
+p74
+g12
+(S'\x07\xdd\x04\x15\x0f\x199\x00\x00\x00'
+tRp75
+sS'status'
+p76
+Vhidden
+p77
+sVslug
+p78
+V403
+p79
+sVtitle
+p80
+V403 -- Permission Denied, sorry!
+p81
+sttp82
+sV/home/rpathak/Temporary/tmp_scratchpad/pelican_themes/pelicanboostrap/content/pages/404.rst
+p83
+(F1492609690.0344877
+(V<div class="figure">\u000a<img alt="Blueprint style diagram showing US Highway Sign W8-8 - Rough Road" src="{filename}/images/pages/404-error.png" />\u000a<p class="caption">The details of the US Highways Sign W8-8 - Rough Road can be <a class="reference external" href="http://mutcd.fhwa.dot.gov/shsm_interim/">found here</a>.</p>\u000a</div>\u000a<p>Sorry, the page you're looking for couldn't be found.</p>\u000a<p>You can either check the address and try again, go back to the <a class="reference external" href="/">homepage</a>, or maybe browse the <a class="reference external" href="/blog">archives</a>.</p>\u000a
+(dp84
+S'date'
+p85
+g12
+(S'\x07\xdd\x04\x15\x0f\x199\x00\x00\x00'
+tRp86
+sS'status'
+p87
+Vhidden
+p88
+sVslug
+p89
+V404
+p90
+sVtitle
+p91
+V404 -- Sorry, that page doesn't exist!
+p92
+sttp93
+sV/home/rpathak/Temporary/tmp_scratchpad/pelican_themes/summations.github.io/content/pages/410.rst
+p94
+(F1492110384
+(V<div class="figure">\u000a<img alt="Blueprint style diagram showing US Highway Sign W8-14 - Fallen Rocks" src="{filename}/images/pages/410-error.png" />\u000a<p class="caption">The details of the US Highways Sign W8-14 - Fallen Rocks can be <a class="reference external" href="http://mutcd.fhwa.dot.gov/shsm_interim/">found here</a>.</p>\u000a</div>\u000a<p>Sorry, the page you're looking for has been permanently removed.</p>\u000a<p>This might be because you followed a very old outdated link, or mistyped an address.</p>\u000a<p>You can either check the address and try again, go back to the <a class="reference external" href="/">homepage</a>, or maybe browse the <a class="reference external" href="/blog">archives</a>.</p>\u000a
+(dp95
+S'date'
+p96
+g12
+(S'\x07\xdd\x07\x17\r\x0b\x08\x00\x00\x00'
+tRp97
+sS'status'
+p98
+Vhidden
+p99
+sVslug
+p100
+V410
 p101
 sVtitle
 p102
-VDuncan Lock's Resume
+V410 -- Sorry, that page has been removed!
 p103
 sttp104
 sV/home/rpathak/Temporary/tmp_scratchpad/pelican_themes/summations.github.io/content/pages/cv.html

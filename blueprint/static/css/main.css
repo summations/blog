@@ -104,7 +104,7 @@ h1 {
 }
 .blog-header a {
     color: #28576b;
-    text-transform: lowercase;
+   
     float: left;
     border-radius: 3px;
     border: 1px solid transparent;

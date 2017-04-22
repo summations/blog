@@ -10,7 +10,7 @@ from datetime import date
 #################################
 
 AUTHOR = 'Rahul Pathak'
-SITENAME = 'Summations'
+SITENAME = 'Σsummations'
 SITESCHEME = 'https'
 #SITEURL = 'http://localhost:8000'
 SITEURL = 'https://summations.github.io'
